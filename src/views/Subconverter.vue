@@ -256,7 +256,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "sub-zh.vercel.app(晓峰部落阁提供-稳定)": "https://sub-zh.vercel.app/sub?",
+          "akashi-six.vercel.app(akashi提供-稳定)": "https://akashi-six.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "bianyuan.xyz(sub作者&边缘提供-稳定)": "https://bianyuan.xyz/sub?",
@@ -265,7 +265,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://sub-zh.vercel.app/sub?" },
+          { value: "https://akashi-six.vercel.app/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://bianyuan.xyz/sub?" },
           { value: "https://api.wcc.best/sub?" },
