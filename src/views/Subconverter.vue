@@ -256,16 +256,16 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "akashi-six.vercel.app(akashi提供-稳定)": "https://akashi-six.vercel.app/sub?",
+          "omid-alpha.vercel.app(omid自用后端)": "https://omid-alpha.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "bianyuan.xyz(sub作者&边缘提供-稳定)": "https://bianyuan.xyz/sub?",
           "api.wcc.best(sub-web作者提供-失效)": "https://api.wcc.best/sub?",
-          "sub.id9.cc(品云转换-失效)": "https://sub.id9.cc/sub?",
+          "sub.id9.cc(品云转换)": "https://sub.id9.cc/sub?",
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://akashi-six.vercel.app/sub?" },
+          { value: "https://omid-alpha.vercel.app/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://bianyuan.xyz/sub?" },
           { value: "https://api.wcc.best/sub?" },
